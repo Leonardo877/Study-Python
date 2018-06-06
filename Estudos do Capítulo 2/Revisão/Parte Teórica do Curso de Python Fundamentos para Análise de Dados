@@ -1,0 +1,10 @@
+Funções Bult-in
+
+Quando trabalhamos com números realizamos operações matemáticas com eles.
+
+
+Em Python, tuplas são muito semelhantes às listas, no entanto,  ao contrário de listas, tuplas são imutáveis, o qu significa que não podem ser alteradas. Você usaria tuplas para apresentar dados que não devem ser alterados,como os dias da semana ou datas em um calendário.
+
+As tuplas são construídas com o uso de parênteses() e vírgulas separando cada elemento da tupla.
+
+tupla = (item1, item2, item3)
